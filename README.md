@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @astronautsnoopy
 - 👀 I’m interested in exploring & learning thingies
 - 🌱 I’m currently learning how GitHub works
-- 💞️ I’m looking to collaborate on the small box of chocolate truffles that rest on my cluttery desk
+- 💞️ I’m looking to collaborate on the small box of chocolate truffles that rest on my messy desk
 - 📫 How to reach me: Just say "chocolate truffles" and I may come right over
 
 <!---
